@@ -163,7 +163,7 @@ class TelaHome extends StatelessWidget {
                           ),
                         },
                         child: Text(
-                          "entre 82 e 95",
+                          "Entre 82 e 95",
                           style: TextStyle(
                             color: Colors.white,
                             fontWeight: FontWeight.bold,
